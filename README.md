@@ -1,5 +1,6 @@
 # alaminmiah.github.io
 My personal website for data analysis prortfolio
+index.html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -84,6 +85,7 @@ My personal website for data analysis prortfolio
     </footer>
 </body>
 </html>
+style.css
 * {
     margin: 0;
     padding: 0;
