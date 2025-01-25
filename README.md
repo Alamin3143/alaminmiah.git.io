@@ -3,12 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Your Name] - Portfolio</title>
+    <title>[Md. Alamin Miah] - Portfolio</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <header>
-        <h1>[Your Name]</h1>
+        <h1>[Md. Alamin Miah]</h1>
         <p>Aspiring Data Analyst | Skilled in Python, SQL, and Power BI</p>
     </header>
     <section>
@@ -25,7 +25,7 @@
         </ul>
     </section>
     <footer>
-        <p>Contact: [Your Email]</p>
+        <p>Contact: [mdalaminmiah757@gmail.com]</p>
         <p><a href="https://linkedin.com/in/yourusername">LinkedIn</a> | <a href="https://github.com/yourusername">GitHub</a></p>
     </footer>
 </body>
