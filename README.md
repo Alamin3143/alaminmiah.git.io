@@ -9,7 +9,7 @@
 <body>
     <header>
         <h1>Md. Alamin Miah</h1>
-        <p>Aspiring Data Analyst | Skilled in Python, SQL, and Power BI</p>
+        <p>Aspiring Data Analyst | Business Intelligence Analyst</p>
     </header>
     <section>
         <h2>Portfolio</h2>
@@ -26,7 +26,7 @@
     </section>
     <footer>
         <p>Contact: mdalaminmiah757@gmail.com</p>
-        <p><a href="https://linkedin.com/in/yourusername">LinkedIn</a> | <a href="https://github.com/yourusername">GitHub</a></p>
+        <p><a href="https://linkedin.com/in/md-alamin-miah-analyst">LinkedIn</a> | <a href="https://github.com/yourusername">GitHub</a></p>
     </footer>
 </body>
 </html>
